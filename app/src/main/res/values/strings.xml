@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Fortune</string>
+    <string name="title_section1">រាសីថ្ងៃនេះ</string>
+    <string name="title_section2">រាសីម្សិលមិញ</string>
+    <string name="title_section3">រាសីម្សិលម្ងៃ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_today">http://dailyfortune.khmernews.today/api/fortune/1419354000</string>
+    <string name="all_user">http://dailyfortune.khmernews.today/api/users</string>
+    <string name="one_user">http://dailyfortune.khmernews.today/api/user/2</string>
+
+</resources>
